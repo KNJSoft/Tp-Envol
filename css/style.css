@@ -1,0 +1,57 @@
+.align-right{
+    float: right;
+}
+.font{
+    font-size: 0.8rem;
+}
+.bg-side{
+    background-color: rgb(2, 47, 87);
+}
+.card-size{
+    font-size: 4rem;
+}
+.chiffre{
+    float: right;
+    background-color: rgb(66, 65, 65); 
+    
+}
+.text1{
+    float: left;
+}
+.card{
+    text-align: center;
+}
+.bg{
+    background-color:rgb(234, 250, 249);
+}
+.img{
+    height: 4rem;
+    width: 4rem;
+}
+
+
+
+.accordion {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+
+.card {
+  margin-bottom: 0.75rem;
+}
+
+.card-header {
+  padding: 0.5rem 1rem;
+  border-bottom: 1px solid #ddd;
+}
+
+.card-header button {
+  float: right;
+  padding: 0;
+  margin: 0;
+}
+
+.card-body {
+  padding: 1rem;
+}
